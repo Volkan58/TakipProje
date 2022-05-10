@@ -1,0 +1,14 @@
+Menü--
+-------
+<<Ürünler<<
+Stoklar
+Müşteriler
+Firmalar
+Personeller
+Giderler
+Kasa
+Notlar
+Bankalar
+Faturalar
+Ayarlar
+Hareketler
